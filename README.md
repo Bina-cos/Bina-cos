@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bina-cos
-- 👀 I’m interested in dada security
+- 👀 I’m interested in data security
 - 🌱 I’m currently learning energy engeneering 
 - 💞️ I’m looking to collaborate on virtual society
 - 📫 How to reach me sabrinac.costa06@gmail.com 
